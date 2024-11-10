@@ -1,2 +1,4 @@
-# Visualizaci-n_big_data
-Entregas para la materia de visualización de grandes bases de datos
+# Visualización Big Data
+En este repositorio se encuentran las practicas y chanllegues requeridos para la aporbación de esta materia.
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
