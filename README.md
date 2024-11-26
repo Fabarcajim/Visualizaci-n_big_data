@@ -21,3 +21,29 @@ Esta carpeta alberga los archivos de las prácticas realizadas en el curso, con 
 
 ### **Licencia**
 El archivo `LICENSE` contiene la licencia del proyecto.
+
+    
+    ├── Challengues                                       <- Carpeta con los challengues realizados  
+    |    |── 2024-11-17 - Challengue_1.ipynb              <- Challengue_1
+    |    |── 2024-11-18 -challengue 2.ipynb               <- Challengue_2
+    |    |── Challenge 3 2024-11-18 13_28_26 (1).ipynb    <- Challengue_3
+    |    └── README.md                                    <- Descripción general del contenido del directorio.
+    |    
+    |      
+    ├── PRACTICAS                                         
+    |    |── Ejercicios                                   <- Carpeta que contiene los ejercicios base para la creación de los scrips de python
+    |    |── practica1.py                                 <- practica1
+    |    |── practica2.py                                 <- practica2
+    |    |── practica3.py                                 <- practica3
+    |    |── practica4.py                                 <- practica4
+    |    └── README.md                                    <- Descripción general del contenido del directorio.
+    |
+    ├── Data                                              <- Carpeta con bases de datos
+    |  
+    ├── CITATION.md                                       <- Cómo citar el proyecto.  
+    |  
+    ├── CONTRIBUTING.md                                   <- Pasos para contribuir al proyecto.  
+    |   
+    ├── LICENSE                                           <- MIT License.  
+    |  
+    ├── README.md                                         <- Readme file principal con la descripción del proyecto.  
